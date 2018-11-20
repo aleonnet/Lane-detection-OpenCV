@@ -22,13 +22,13 @@ def roi(video, vertices):
 	return masked
 
 while True:
-	#Read
+    #Read
     ret, orig_frame = video.read()
     
     #Create Draw layer
     line_image = np.copy(orig_frame) * 0  
 	
-	#Gassianblur
+    #Gassianblur
     frame = cv2.GaussianBlur(orig_frame, (5, 5), 0)
     
     #Color to hsv
