@@ -12,6 +12,7 @@ print ("OpenCV version: " + cv2. __version__)
 print ("Numpy version: " + np.version.version)
 #Videocapture
 #Change to 0 if you want to use your first attached webcam.
+#Download the video if you want to use this capture or change to your own. (Possibly change the Region of interest vertices too)
 video = cv2.VideoCapture("weg-spanje-2.mp4")
 
 #Define region of interest
